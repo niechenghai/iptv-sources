@@ -1,4 +1,4 @@
-# List for **iptv.org stream China**(Rollback)
+# List for **iptv.org stream China**
 
 > M3U: [o_s_cn.m3u](/o_s_cn.m3u), TXT: [o_s_cn.txt](/txt/o_s_cn.txt)
 
@@ -382,4 +382,4 @@
 | 376 | Qinghai TV | hls-qhmh.lanzhousobey.cn | <https://hls-qhmh.lanzhousobey.cn/qhmh/mhds.m3u8> |
 | 377 | Jiangsu Public & News Channel | 荔枝网 | <https://jiangning-tv-playing-t.cm.jstv.com/jiangning-tv/jnxwzh.m3u8> |
 
-Updated at **Tue Aug 04 2026 06:26:37 GMT+0000 (Coordinated Universal Time)**
+Updated at **Tue Aug 04 2026 10:37:40 GMT+0000 (Coordinated Universal Time)**
