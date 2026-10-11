@@ -1,4 +1,4 @@
-# List for **joevess/IPTV iptv**(Rollback)
+# List for **joevess/IPTV iptv**
 
 > M3U: [j_iptv.m3u](/j_iptv.m3u), TXT: [j_iptv.txt](/txt/j_iptv.txt)
 
@@ -6,4 +6,4 @@
 | --- | ------------ | ---- | ------ |
 
 
-Updated at **Sun Oct 11 2026 08:19:42 GMT+0000 (Coordinated Universal Time)**
+Updated at **Sun Oct 11 2026 16:09:11 GMT+0000 (Coordinated Universal Time)**
